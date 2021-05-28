@@ -4,7 +4,9 @@
 
 Bu site sayesinde, siteye veri girişi yapabilirsiniz.
 Girişini yaptığınız veri topluluğuyla ilgili;
-
+- Sayı Adedi
+- Elemanlar Toplamı
+- Minimum ve Maksimum Değer
 - Aritmetik Ortalama
 - Medyan
 - Standart Sapma
@@ -13,6 +15,7 @@ Girişini yaptığınız veri topluluğuyla ilgili;
 - Harmonik Ortalama
 - Geometrik Ortalama
 - Ortalama sapma
+- Değişim Katsayısı
 
 gibi değerlere ulaşabilirsiniz.
 
