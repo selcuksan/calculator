@@ -23,11 +23,11 @@ Verilerinizin girişini yapacağınız giriş bölümü:
 
 ⚠️ Veri girişinizi yaparken verilerinizin arasına <b>","</b> koyarak giriniz.
 
-![result](https://user-images.githubusercontent.com/56341239/120031641-bd65d580-c001-11eb-9beb-6a2c442513fd.PNG)
+![index](https://user-images.githubusercontent.com/56341239/120031649-be970280-c001-11eb-9cff-1199f6a2fff1.JPG)
 
 Veri topluluğunuzun değerlerini görebileceğiniz içerik bölümü:
 
-![index](https://user-images.githubusercontent.com/56341239/120031649-be970280-c001-11eb-9cff-1199f6a2fff1.JPG)
+![result](https://user-images.githubusercontent.com/56341239/120031641-bd65d580-c001-11eb-9beb-6a2c442513fd.PNG)
 
 # Kullanılan Teknoljiler
 
