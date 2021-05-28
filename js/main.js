@@ -168,7 +168,7 @@ function goster() {
     document.getElementById("AritmetikOrtalama").innerHTML = parseFloat(localStorage.getItem('ort')).toFixed(3);
     document.getElementById("Medyan").innerHTML = parseFloat(localStorage.getItem('med')).toFixed(3);
     document.getElementById("StandartSapma").innerHTML = parseFloat(localStorage.getItem('sd')).toFixed(3);
-    document.getElementById("Mod").innerHTML = 'Mod: ' + parseFloat(localStorage.getItem('mode') + ' Frekans: ' + localStorage.getItem('frekans')).toFixed(3);
+    document.getElementById("Mod").innerHTML = 'Mod: ' + localStorage.getItem('mode') + ' Frekans: ' + localStorage.getItem('frekans');
     document.getElementById("HarmonikOrtalama").innerHTML = parseFloat(localStorage.getItem('hOrt')).toFixed(3);
     document.getElementById("Geometrikortalama").innerHTML = parseFloat(localStorage.getItem('gOrt')).toFixed(3);
     document.getElementById("OrtalamaSapma").innerHTML = parseFloat(localStorage.getItem('ortSapma')).toFixed(3);
