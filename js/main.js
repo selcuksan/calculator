@@ -65,7 +65,11 @@ function mod() {
         if (adetList[i][1] == frekans)
             sonuc.push(adetList[i][0])
     }
-    return [sonuc, frekans, adetList];
+    let result =
+        frekans != 1
+            ? [sonuc, frekans, adetList]
+            : ["Mod Yoktur", "Sayılar birer kez tekrar ediyor"];
+    return result;
 }
 
 
