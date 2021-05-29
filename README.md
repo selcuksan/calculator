@@ -29,7 +29,8 @@ Verilerinizin girişini yapacağınız giriş bölümü:
 
 Veri topluluğunuzun değerlerini görebileceğiniz içerik bölümü:
 
-![result](https://user-images.githubusercontent.com/56341239/120031641-bd65d580-c001-11eb-9beb-6a2c442513fd.PNG)
+![result](https://user-images.githubusercontent.com/56341239/120064104-597bf500-c073-11eb-953c-5bc90ec38521.PNG)
+
 
 # Kullanılan Teknoljiler
 
