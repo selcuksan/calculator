@@ -35,6 +35,7 @@ Veri topluluğunuzun değerlerini görebileceğiniz içerik bölümü:
 
 - HTML
 - CSS
+- BOOTSTRAP
 - JS
 
 # Ekip Üyeleri
